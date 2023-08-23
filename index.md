@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Profile Summary
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Agile Certified Practitioner (PMI-ACP) with over 16 years of experience in Program Management, Project Management, Web Application Development and Leadership, seeking challenging opportunities in a dynamic organization to utilize skills and contribute to the company's success. Focused on delivering excellence in project management, web application development & team leadership across various industries.
 
 ## Header 2
 
